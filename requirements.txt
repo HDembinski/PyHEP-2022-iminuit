@@ -1,0 +1,7 @@
+iminuit
+numpy
+matplotlib
+ipywidgets
+scipy
+boost_histogram
+numba_stats
