@@ -2,6 +2,8 @@
 
 **Hans Dembinski** | TU Dortmund
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hdembinski/pyhep-2022-iminuit/HEAD)
+
 **PyPI** https://pypi.org/project/iminuit
 
 **Source** https://github.com/scikit-hep/iminuit
