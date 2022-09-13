@@ -1,7 +1,8 @@
 iminuit
 numpy
 matplotlib
-ipywidgets
+ipywidgets<8
 scipy
 boost_histogram
 numba_stats
+jacobi
